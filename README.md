@@ -57,5 +57,13 @@ ELSE 'Diamond'
 ENS AS Category
 FROM mobile sales;
 
+---
+
+## Visualization
+
+## Pivot Tables
+
+
+
   
 
