@@ -1,7 +1,8 @@
 ## MOBILE-SALES-ANALYSIS
 
 ## OVERVIEW:
-This is a sales report for a Mobile Product
++ This is a sales report for a Mobile Product
+
     ---
 
 ## Project Overview:
