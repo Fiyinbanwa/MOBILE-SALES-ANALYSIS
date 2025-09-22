@@ -38,6 +38,23 @@ First three Records
 
 ## Query Languages(SQL):
 Some of the query language used to retrieve records are displayed here:
+````SQL
+ SELECT * FROM 'mobile sales';
+---Calculate Total Revenue By Price---
+SELECT Paymentmethod,Sum(price)
+AS Total Revenue
+FROM mobile sales
+GROUP BY Payment
+ORDER BY Total Revenue DESC;
+
 ````
+--- Categorise data into silver,gold,and daimond---
+CASE
+WHEN price <500 THEN 'Silver'
+WHEN price BETWEEN 500 AND 1000 THEN 'Gold'
+ELSE 'Diamond'
+ENS AS Category
+FROM mobile sales;
+
   
 
