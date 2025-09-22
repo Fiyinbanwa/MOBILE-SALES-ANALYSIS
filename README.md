@@ -26,8 +26,8 @@ www.kagggle.com/dataset
 
   ---
 
-  ## Table Outlay:
-  First three Records
+## Table Outlay:
+First three Records
 |TransactionID|	Date| MobileModel|	Brand|	Price|	UnitsSold|	TotalRevenue|	CustomerAge	|CustomerGender|	Location|	PaymentMethod|
 |------|-----|----|-------|-------|----------|--------|--------|------|-------|---------|
 
