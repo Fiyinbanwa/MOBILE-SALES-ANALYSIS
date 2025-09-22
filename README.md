@@ -47,7 +47,8 @@ FROM mobile sales
 GROUP BY Payment
 ORDER BY Total Revenue DESC;
 
-````
+````SQL
+SELECT* FROM 'mobile sales';
 --- Categorise data into silver,gold,and daimond---
 CASE
 WHEN price <500 THEN 'Silver'
