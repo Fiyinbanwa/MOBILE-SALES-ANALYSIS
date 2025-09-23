@@ -70,5 +70,5 @@ FROM mobile sales;
 ### PowerBI
 ![IMG-20250911-WA0032](https://github.com/user-attachments/assets/7295f4b3-c1d3-45c7-9d51-62098d2dbe40)
 
-[View my Linkedin profile]()
+[View my Linkedin profile](https://www.linkedin.com/in/fiyinfoluwa-shobanwa/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
