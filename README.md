@@ -70,8 +70,7 @@ FROM mobile sales;
 
 ### PowerBI
 
-
-
+![IMG-20250911-WA0032](https://github.com/user-attachments/assets/3448df11-ad14-4887-828a-ac50f7fc9b3d)
 
   
 
