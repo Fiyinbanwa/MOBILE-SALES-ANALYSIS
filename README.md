@@ -63,6 +63,7 @@ FROM mobile sales;
 ## Visualization
 
 ## Pivot Tables
+
 <img width="1065" height="431" alt="1" src="https://github.com/user-attachments/assets/2b0268bf-3650-42b6-a4db-e860be49e3e6" />
 
 
