@@ -69,7 +69,5 @@ FROM mobile sales;
 ### Charts
 
 ### PowerBI
-
-
-  
+![IMG-20250911-WA0032](https://github.com/user-attachments/assets/7295f4b3-c1d3-45c7-9d51-62098d2dbe40)
 
